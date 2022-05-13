@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PizzeriaTemplate2.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/PizzeriaTemplate2.github.io/static/js/main.b1c46e5f.js",
+    "static/js/787.3f32ca6b.chunk.js": "/PizzeriaTemplate2.github.io/static/js/787.3f32ca6b.chunk.js",
+    "static/media/logo.svg": "/PizzeriaTemplate2.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PizzeriaTemplate2.github.io/index.html",
+    "main.073c9b0a.css.map": "/PizzeriaTemplate2.github.io/static/css/main.073c9b0a.css.map",
+    "main.b1c46e5f.js.map": "/PizzeriaTemplate2.github.io/static/js/main.b1c46e5f.js.map",
+    "787.3f32ca6b.chunk.js.map": "/PizzeriaTemplate2.github.io/static/js/787.3f32ca6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b1c46e5f.js"
+  ]
+}
