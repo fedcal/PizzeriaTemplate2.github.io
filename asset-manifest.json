@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/PizzeriaTemplate2.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/PizzeriaTemplate2.github.io/static/js/main.b1c46e5f.js",
-    "static/js/787.3f32ca6b.chunk.js": "/PizzeriaTemplate2.github.io/static/js/787.3f32ca6b.chunk.js",
-    "static/media/logo.svg": "/PizzeriaTemplate2.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/PizzeriaTemplate2.github.io/static/css/main.2329224b.css",
+    "main.js": "/PizzeriaTemplate2.github.io/static/js/main.adfee96b.js",
+    "static/media/bg.png": "/PizzeriaTemplate2.github.io/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/PizzeriaTemplate2.github.io/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/PizzeriaTemplate2.github.io/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/PizzeriaTemplate2.github.io/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/PizzeriaTemplate2.github.io/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/PizzeriaTemplate2.github.io/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/PizzeriaTemplate2.github.io/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/PizzeriaTemplate2.github.io/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/PizzeriaTemplate2.github.io/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/PizzeriaTemplate2.github.io/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/PizzeriaTemplate2.github.io/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/PizzeriaTemplate2.github.io/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/PizzeriaTemplate2.github.io/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/PizzeriaTemplate2.github.io/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/PizzeriaTemplate2.github.io/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/PizzeriaTemplate2.github.io/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/PizzeriaTemplate2.github.io/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/PizzeriaTemplate2.github.io/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/PizzeriaTemplate2.github.io/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/PizzeriaTemplate2.github.io/index.html",
-    "main.073c9b0a.css.map": "/PizzeriaTemplate2.github.io/static/css/main.073c9b0a.css.map",
-    "main.b1c46e5f.js.map": "/PizzeriaTemplate2.github.io/static/js/main.b1c46e5f.js.map",
-    "787.3f32ca6b.chunk.js.map": "/PizzeriaTemplate2.github.io/static/js/787.3f32ca6b.chunk.js.map"
+    "static/media/spoon.svg": "/PizzeriaTemplate2.github.io/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.2329224b.css.map": "/PizzeriaTemplate2.github.io/static/css/main.2329224b.css.map",
+    "main.adfee96b.js.map": "/PizzeriaTemplate2.github.io/static/js/main.adfee96b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b1c46e5f.js"
+    "static/css/main.2329224b.css",
+    "static/js/main.adfee96b.js"
   ]
 }
